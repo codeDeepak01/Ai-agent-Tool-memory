@@ -1,5 +1,5 @@
 # ========================================================
-# AI AGENT PRO – COMPLETE FINAL YEAR PROJECT (Single File)
+# AI AGENT PRO (Single File)
 # ========================================================
 # Features:
 #   • Beautiful Streamlit Chat UI (like ChatGPT)
@@ -180,4 +180,5 @@ with st.sidebar:
     
     st.caption("Final Year Project 2025 • Made with Love")
     st.markdown("---")
+
     st.markdown("*Best project you'll ever submit*")
